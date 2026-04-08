@@ -30,3 +30,11 @@
     text-decoration: none;
 }
 
+#hero {
+    text-align: center;
+    background-color: #cfcfe0;
+    padding: 5px 1px 15px 1px;
+    border-radius: 10px;
+    margin: 10px auto;
+    width: 95%;
+}
