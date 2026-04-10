@@ -4,6 +4,10 @@
     border-box: border-box;
 }
 
+#container {
+    content-allign: center;
+}
+
 #cabecalho{
     background-color: #1a1a1c;
     padding: 1%;
