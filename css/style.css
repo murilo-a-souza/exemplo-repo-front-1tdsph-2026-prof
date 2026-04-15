@@ -1,49 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-    border-box: border-box;
+    box-sizing: border-box;
 }
 
-#container {
-    content-allign: center;
-}
+h1 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
 
-#cabecalho{
-    background-color: #1a1a1c;
-    padding: 1%;
-    color: #fff;
-    width: 95%;
-    height: 120px;
-    margin: 0 auto;
-}
-
-#cabecalho h1{
-    font-size: 40px;
-    text-align: center;
-    margin: 0;
-}
-
-#cabecalho nav ul{
-    list-style: none;
-    background-color: #2c2c45;
-    padding: 0;
-}
-
-#cabecalho nav ul li{
-    display: inline-block;
-    margin: 0 10px;
-}
-
-#cabecalho nav ul li a{
-    color: #fff;
-    text-decoration: none;
-}
-
-#hero {
-    text-align: center;
-    background-color: #cfcfe0;
-    padding: 5px 1px 15px 1px;
-    border-radius: 10px;
-    margin: 10px auto;
-    width: 95%;
+    border: 10px solid  rgb(12, 206, 12);
 }
